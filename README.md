@@ -1,1 +1,1 @@
-Flutter projects for CV
+Flutter projects by Tavanov Yertiles
